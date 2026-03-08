@@ -1,0 +1,9 @@
+[submodule "reference/memory-lancedb-pro"]
+	path = reference/memory-lancedb-pro
+	url = https://github.com/win4r/memory-lancedb-pro.git
+[submodule "reference/supersystem"]
+	path = reference/supersystem
+	url = https://github.com/ktao732084-arch/openclaw_memory_supersystem-v1.0.git
+[submodule "reference/supermemory"]
+	path = reference/supermemory
+	url = https://github.com/supermemoryai/openclaw-supermemory.git
